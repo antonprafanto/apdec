@@ -1,5 +1,5 @@
 # RENCANA ANGGARAN BIAYA (RAB)
-## SISTEM PENDETEKSI APD BERBASIS AI - LOKASI TAMBANG
+## IMPLEMENTASI SISTEM PENDETEKSI APD BERBASIS AI UNTUK INDUSTRI PERTAMBANGAN
 
 ---
 
@@ -475,7 +475,32 @@
 
 ---
 
-## 12. APPROVAL & SIGNATURES
+## 12. TERMS & CONDITIONS
+
+### 12.1. Payment Terms
+- **Currency**: Indonesian Rupiah (IDR)
+- **Payment Method**: Bank transfer ke corporate account
+- **Invoice Timing**: 7 hari sebelum setiap milestone
+- **Payment Due**: 14 hari setelah invoice date
+- **Late Payment**: 1.5% per bulan interest
+
+### 12.2. Cancellation Policy
+- **Client Cancellation**: 30% dari total investment untuk work completed
+- **Force Majeure**: Flexible rescheduling untuk circumstances di luar control
+
+### 12.3. Intellectual Property
+- **Software IP**: Client ownership setelah final payment
+- **Custom AI Model**: Client ownership dengan training data rights
+- **Documentation**: Full access ke technical documentation
+
+### 12.4. Confidentiality
+- **Data Protection**: All project data kept confidential
+- **Non-Disclosure**: Mutual NDA included dalam contract
+- **Data Ownership**: Client retains ownership semua operational data
+
+---
+
+## 13. APPROVAL & SIGNATURES
 
 | Role | Name | Signature | Date |
 |------|------|-----------|------|
@@ -486,7 +511,12 @@
 
 ---
 
-*Prepared by: Anton Prafanto, M.T., Senior AI/ML Solutions Architect*
-*Date: October 29, 2025*
-*Document Version: 1.0*
-*Valid Until: December 31, 2025*
+### 13.1. Document Information
+- **Document Version**: 1.0 (Final)
+- **Prepared Date**: 29 October 2025
+- **Valid Until**: 31 December 2025
+- **Project Code**: APD-DETECTOR-RAB-2025-01
+
+---
+
+*© 2025 [Your Company Name]. All rights reserved.*
