@@ -14,12 +14,12 @@ Sistem pendeteksi APD berbasis Artificial Intelligence (AI) yang dirancang khusu
 - **ROI**: Penghematan biaya tenaga kerja, pengurangan insiden kerja, compliance reporting otomatis
 
 ### 1.3. Key Benefits
--✅ Deteksi real-time 24/7 tanpa henti
--✅ Akurasi deteksi >95% untuk helm, safety vest, dan safety boots
--✅ Data logging otomatis untuk keperluan audit dan reporting
--✅ Alert system yang dapat dikustomisasi
--✅ Integrasi dengan sistem absensi karyawan yang sudah ada
--✅ Scalable untuk multiple camera deployment di masa depan
+- ✅ Deteksi real-time 24/7 tanpa henti
+- ✅ Akurasi deteksi >95% untuk helm, safety vest, dan safety boots
+- ✅ Data logging otomatis untuk keperluan audit dan reporting
+- ✅ Alert system yang dapat dikustomisasi
+- ✅ Integrasi dengan sistem absensi karyawan yang sudah ada
+- ✅ Scalable untuk multiple camera deployment di masa depan
 
 ### 1.4. Service Level Agreement & Guarantees
 
