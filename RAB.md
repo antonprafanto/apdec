@@ -486,7 +486,7 @@
 
 ---
 
-*Prepared by: [Your Name], Senior AI/ML Solutions Architect*
+*Prepared by: Anton Prafanto, M.T., Senior AI/ML Solutions Architect*
 *Date: October 29, 2025*
 *Document Version: 1.0*
 *Valid Until: December 31, 2025*
