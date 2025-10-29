@@ -376,6 +376,6 @@ Sistem pendeteksi APD berbasis Artificial Intelligence (AI) yang dirancang khusu
 
 ---
 
-*Prepared by: [Your Name], Senior AI/ML Solutions Architect*
+*Prepared by: Anton Prafanto, M.T., Senior AI/ML Solutions Architect*
 *Date: October 29, 2025*
 *Project Code: APD-DETECTOR-2025-01*
