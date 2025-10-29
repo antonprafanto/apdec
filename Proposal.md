@@ -1,5 +1,5 @@
 # PROPOSAL SISTEM PENDETEKSI APD (ALAT PELINDUNG DIRI)
-## LOKASI TAMBANG DENGAN COMPUTER VISION
+## IMPLEMENTASI AI COMPUTER VISION UNTUK LOKASI TAMBANG
 
 ---
 
@@ -14,12 +14,12 @@ Sistem pendeteksi APD berbasis Artificial Intelligence (AI) yang dirancang khusu
 - **ROI**: Penghematan biaya tenaga kerja, pengurangan insiden kerja, compliance reporting otomatis
 
 ### 1.3. Key Benefits
-- ✅ Deteksi real-time 24/7 tanpa henti
-- ✅ Akurasi deteksi >95% untuk helm, safety vest, dan safety boots
-- ✅ Data logging otomatis untuk keperluan audit dan reporting
-- ✅ Alert system yang dapat dikustomisasi
-- ✅ Integrasi dengan sistem absensi karyawan yang sudah ada
-- ✅ Scalable untuk multiple camera deployment di masa depan
+✅ Deteksi real-time 24/7 tanpa henti
+✅ Akurasi deteksi >95% untuk helm, safety vest, dan safety boots
+✅ Data logging otomatis untuk keperluan audit dan reporting
+✅ Alert system yang dapat dikustomisasi
+✅ Integrasi dengan sistem absensi karyawan yang sudah ada
+✅ Scalable untuk multiple camera deployment di masa depan
 
 ### 1.4. Service Level Agreement & Guarantees
 
@@ -376,6 +376,26 @@ Sistem pendeteksi APD berbasis Artificial Intelligence (AI) yang dirancang khusu
 
 ---
 
-*Prepared by: Anton Prafanto, M.T., Senior AI/ML Solutions Architect*
-*Date: October 29, 2025*
-*Project Code: APD-DETECTOR-2025-01*
+## 9. CONTACT INFORMATION & NEXT STEPS
+
+### 9.1. Project Contact
+- **Implementation Lead**: Anton Prafanto, M.T.
+- **Email**: anton.prafanto@gmail.com
+- **Phone**: +62 811553393 
+- **Website**: kodingindonesia.com
+
+### 9.2. Next Steps
+1. **Site Survey**: Technical assessment dan camera placement planning
+2. **Requirement Confirmation**: Finalize specific client requirements
+3. **Contract Signing**: Formalize project agreement
+4. **Project Kick-off**: Begin 12-week implementation timeline
+
+### 9.3. Document Information
+- **Document Version**: 1.0 (Final)
+- **Prepared Date**: 29 October 2025
+- **Valid Until**: 31 December 2025
+- **Project Code**: APD-DETECTOR-2025-01
+
+---
+
+*© 2025 kodingindonesia. All rights reserved.*
