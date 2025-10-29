@@ -519,4 +519,4 @@
 
 ---
 
-*© 2025 [Your Company Name]. All rights reserved.*
+*© 2025 kodingindonesia. All rights reserved.*
